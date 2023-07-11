@@ -24,31 +24,6 @@
       "id": 5,
       "name": "Samsung S20+",
       "price": 5000.89
-    },
-    {
-      "id": 6,
-      "name": "",
-      "price": 0
-    },
-    {
-      "id": 7,
-      "name": "Borracha",
-      "price": "15,00"
-    },
-    {
-      "id": 8,
-      "name": "Lapis",
-      "price": "2,00"
-    },
-    {
-      "id": 9,
-      "name": "Caderno",
-      "price": "30,00"
-    },
-    {
-      "id": 10,
-      "name": "Caderno",
-      "price": "30,00"
     }
   ]
 }
