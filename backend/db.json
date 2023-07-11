@@ -12,7 +12,7 @@
     },
     {
       "id": 3,
-      "name": "Caneta BIC Vermelha",
+      "name": "Caneta BIC Vermelha Brilhante",
       "price": 5.89
     },
     {
@@ -24,6 +24,11 @@
       "id": 5,
       "name": "Samsung S20+",
       "price": 5000.89
+    },
+    {
+      "id": 6,
+      "name": "mouse sem fio",
+      "price": "35.00"
     }
   ]
 }
